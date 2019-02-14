@@ -1,0 +1,38 @@
+{
+  "name": "test.json",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "index.js",
+  "scripts": {
+    "test": "test?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YerkoDeZutter/begin-node.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YerkoDeZutter/begin-node/issues"
+  },
+  "homepage": "https://github.com/YerkoDeZutter/begin-node#readme",
+  "dependencies": {
+    "@octokit/rest": "^16.15.0",
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^4.0.0",
+    "express": "^4.16.4",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.2",
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0",
+    "request": "^2.88.0",
+    "simple-git": "^1.107.0",
+    "touch": "^3.1.0",
+    "useragent": "^2.3.0"
+  }
+}
